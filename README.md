@@ -1,3 +1,12 @@
-# discordCppSdk
-Contents are not my work. They were copied from [what Discord publicly provides to developers](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide).
-I wanted to include the SDK as a cmake-compatible submodule in some of my cross-platform projects, and this was a convenient way for me to do so.
+# Discord RPC Python Wrapper
+_Discord RPC Python Wrapper_ is a wrapper of the Discord SDK for the Python Programming Language 
+
+
+# 🔨 Building
+Below you will find anything you need to know.
+
+## 💻 Windows
+Open the [SDK.sln](SDK/SDK.sln) file and then build the project using Release -> x64
+
+## 🐧 Linux
+To Be Added
