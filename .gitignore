@@ -1,2 +1,4 @@
 cmake-build*
 .idea
+source/x64
+source/.vs
