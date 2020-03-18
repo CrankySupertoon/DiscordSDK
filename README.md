@@ -1,5 +1,5 @@
-# Discord RPC Python Wrapper
-_Discord RPC Python Wrapper_ is a wrapper of the Discord SDK for the Python Programming Language 
+# Discord SDK
+This branch of _Discord SDK_ is a wrapper of the Discord SDK for the Python Programming Language 
 
 
 # 🔨 Building
